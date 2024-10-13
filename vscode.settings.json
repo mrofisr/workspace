@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "onWindowChange",
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "workbench.editor.showTabs": "multiple",
+    "workbench.layoutControl.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.tips.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "window.commandCenter": false,
+    "workbench.sideBar.location": "left",
+    "window.title": "${folderName}${separator}${profileName}",
+    "workbench.editor.decorations.colors": false,
+    "workbench.editor.decorations.badges": false
+  }
